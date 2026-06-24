@@ -66,7 +66,7 @@
                         <h1 style="font-size: 34px; margin: 0; letter-spacing: -0.03em; color:#0f172a;">SHASHI SHANKER</h1>
                         <p style="font-size: 16px; margin: 5px 0; color:#2563eb; font-weight: 700;">Senior Full Stack Engineer | .NET | Angular | AI | Genesys</p>
                         <p style="font-size: 12.5px; margin: 2px 0; color:#475569;">Delhi NCR, India | shashi.shanker@example.com</p>
-                        <p style="font-size: 12.5px; margin: 2px 0; color:#475569;">LinkedIn: https://www.linkedin.com/in/shashi-shanker/ | GitHub: https://github.com/shashi-shanker</p>
+                        <p style="font-size: 12.5px; margin: 2px 0; color:#475569;">LinkedIn: https://www.linkedin.com/in/sshanker272/ | GitHub: https://github.com/sshanker50</p>
                     </div>
 
                     <section style="margin-bottom: 13px;">
